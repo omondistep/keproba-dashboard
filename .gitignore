@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets — never commit
+.env
+
+# Local working data (the site/data files ARE committed for the static dashboard)
+raw/
+data/canonical/
+data/load/
+data/preview/
+data/reconciliation_report.csv
+data/watch_state.sha256
+
+# Extracted archives (original zips stay in inbox/)
+inbox/kra/
+inbox/itc/
+~$*.xls*
+
+# Finished reports: publish only the workbook the CI reconciliation needs.
+# The other DOCX/XLSX reports stay local as reference material.
+sample reports and excel/*
+!sample reports and excel/MEAT AND HORTICULTURE EXPORT TABLES SEGREGATED BY REGION JAN JUN 2026.xlsx
+
+# OS / editor
+.DS_Store
+*.swp

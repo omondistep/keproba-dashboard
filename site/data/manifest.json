@@ -1,0 +1,402 @@
+{
+  "built_at": "2026-11-23 19:01 UTC",
+  "rows": 123568,
+  "files": [
+    {
+      "name": "fact_kra.parquet",
+      "view": "fact_kra"
+    },
+    {
+      "name": "fact_itc.parquet",
+      "view": "fact_itc"
+    },
+    {
+      "name": "bridge_partner_bloc.parquet",
+      "view": "bridge_partner_bloc"
+    }
+  ],
+  "years": [
+    2026
+  ],
+  "groups": [
+    {
+      "code": "01",
+      "label": "Other (chapter 01)"
+    },
+    {
+      "code": "02",
+      "label": "Meat and edible meat offal"
+    },
+    {
+      "code": "03",
+      "label": "Other (chapter 03)"
+    },
+    {
+      "code": "04",
+      "label": "Other (chapter 04)"
+    },
+    {
+      "code": "05",
+      "label": "Other (chapter 05)"
+    },
+    {
+      "code": "06,07,08",
+      "label": "Horticulture"
+    },
+    {
+      "code": "09",
+      "label": "Other (chapter 09)"
+    },
+    {
+      "code": "0901",
+      "label": "Coffee"
+    },
+    {
+      "code": "0902",
+      "label": "Tea"
+    },
+    {
+      "code": "10",
+      "label": "Cereals"
+    },
+    {
+      "code": "11",
+      "label": "Other (chapter 11)"
+    },
+    {
+      "code": "12",
+      "label": "Other (chapter 12)"
+    },
+    {
+      "code": "13",
+      "label": "Other (chapter 13)"
+    },
+    {
+      "code": "14",
+      "label": "Other (chapter 14)"
+    },
+    {
+      "code": "15",
+      "label": "Animal or vegetable fats and oils"
+    },
+    {
+      "code": "16",
+      "label": "Other (chapter 16)"
+    },
+    {
+      "code": "17",
+      "label": "Sugar and sugar confectionery"
+    },
+    {
+      "code": "18",
+      "label": "Other (chapter 18)"
+    },
+    {
+      "code": "19",
+      "label": "Other (chapter 19)"
+    },
+    {
+      "code": "20",
+      "label": "Other (chapter 20)"
+    },
+    {
+      "code": "21",
+      "label": "Other (chapter 21)"
+    },
+    {
+      "code": "22",
+      "label": "Other (chapter 22)"
+    },
+    {
+      "code": "23",
+      "label": "Other (chapter 23)"
+    },
+    {
+      "code": "24",
+      "label": "Other (chapter 24)"
+    },
+    {
+      "code": "25",
+      "label": "Other (chapter 25)"
+    },
+    {
+      "code": "26",
+      "label": "Other (chapter 26)"
+    },
+    {
+      "code": "27",
+      "label": "Mineral fuels, oils and products of their distillation"
+    },
+    {
+      "code": "28",
+      "label": "Other (chapter 28)"
+    },
+    {
+      "code": "29",
+      "label": "Other (chapter 29)"
+    },
+    {
+      "code": "30",
+      "label": "Pharmaceutical products"
+    },
+    {
+      "code": "31",
+      "label": "Other (chapter 31)"
+    },
+    {
+      "code": "32",
+      "label": "Other (chapter 32)"
+    },
+    {
+      "code": "33",
+      "label": "Other (chapter 33)"
+    },
+    {
+      "code": "34",
+      "label": "Other (chapter 34)"
+    },
+    {
+      "code": "35",
+      "label": "Other (chapter 35)"
+    },
+    {
+      "code": "36",
+      "label": "Other (chapter 36)"
+    },
+    {
+      "code": "37",
+      "label": "Other (chapter 37)"
+    },
+    {
+      "code": "38",
+      "label": "Other (chapter 38)"
+    },
+    {
+      "code": "39",
+      "label": "Plastics and articles thereof"
+    },
+    {
+      "code": "40",
+      "label": "Other (chapter 40)"
+    },
+    {
+      "code": "41",
+      "label": "Other (chapter 41)"
+    },
+    {
+      "code": "42",
+      "label": "Other (chapter 42)"
+    },
+    {
+      "code": "43",
+      "label": "Other (chapter 43)"
+    },
+    {
+      "code": "44",
+      "label": "Other (chapter 44)"
+    },
+    {
+      "code": "45",
+      "label": "Other (chapter 45)"
+    },
+    {
+      "code": "46",
+      "label": "Other (chapter 46)"
+    },
+    {
+      "code": "47",
+      "label": "Other (chapter 47)"
+    },
+    {
+      "code": "48",
+      "label": "Other (chapter 48)"
+    },
+    {
+      "code": "49",
+      "label": "Other (chapter 49)"
+    },
+    {
+      "code": "50",
+      "label": "Other (chapter 50)"
+    },
+    {
+      "code": "51",
+      "label": "Other (chapter 51)"
+    },
+    {
+      "code": "52",
+      "label": "Other (chapter 52)"
+    },
+    {
+      "code": "53",
+      "label": "Other (chapter 53)"
+    },
+    {
+      "code": "54",
+      "label": "Other (chapter 54)"
+    },
+    {
+      "code": "55",
+      "label": "Other (chapter 55)"
+    },
+    {
+      "code": "56",
+      "label": "Other (chapter 56)"
+    },
+    {
+      "code": "57",
+      "label": "Other (chapter 57)"
+    },
+    {
+      "code": "58",
+      "label": "Other (chapter 58)"
+    },
+    {
+      "code": "59",
+      "label": "Other (chapter 59)"
+    },
+    {
+      "code": "60-63",
+      "label": "Textile and Apparel Accessories"
+    },
+    {
+      "code": "64",
+      "label": "Other (chapter 64)"
+    },
+    {
+      "code": "65",
+      "label": "Other (chapter 65)"
+    },
+    {
+      "code": "66",
+      "label": "Other (chapter 66)"
+    },
+    {
+      "code": "67",
+      "label": "Other (chapter 67)"
+    },
+    {
+      "code": "68",
+      "label": "Other (chapter 68)"
+    },
+    {
+      "code": "69",
+      "label": "Other (chapter 69)"
+    },
+    {
+      "code": "70",
+      "label": "Other (chapter 70)"
+    },
+    {
+      "code": "71",
+      "label": "Other (chapter 71)"
+    },
+    {
+      "code": "72",
+      "label": "Iron and steel"
+    },
+    {
+      "code": "73",
+      "label": "Other (chapter 73)"
+    },
+    {
+      "code": "74",
+      "label": "Other (chapter 74)"
+    },
+    {
+      "code": "75",
+      "label": "Other (chapter 75)"
+    },
+    {
+      "code": "76",
+      "label": "Other (chapter 76)"
+    },
+    {
+      "code": "78",
+      "label": "Other (chapter 78)"
+    },
+    {
+      "code": "79",
+      "label": "Other (chapter 79)"
+    },
+    {
+      "code": "80",
+      "label": "Other (chapter 80)"
+    },
+    {
+      "code": "81",
+      "label": "Other (chapter 81)"
+    },
+    {
+      "code": "82",
+      "label": "Other (chapter 82)"
+    },
+    {
+      "code": "83",
+      "label": "Other (chapter 83)"
+    },
+    {
+      "code": "84",
+      "label": "Machinery, mechanical appliances"
+    },
+    {
+      "code": "85",
+      "label": "Electrical machinery and equipment"
+    },
+    {
+      "code": "86",
+      "label": "Other (chapter 86)"
+    },
+    {
+      "code": "87",
+      "label": "Vehicles other than railway rolling stock"
+    },
+    {
+      "code": "88",
+      "label": "Other (chapter 88)"
+    },
+    {
+      "code": "89",
+      "label": "Other (chapter 89)"
+    },
+    {
+      "code": "90",
+      "label": "Other (chapter 90)"
+    },
+    {
+      "code": "91",
+      "label": "Other (chapter 91)"
+    },
+    {
+      "code": "92",
+      "label": "Other (chapter 92)"
+    },
+    {
+      "code": "93",
+      "label": "Other (chapter 93)"
+    },
+    {
+      "code": "94",
+      "label": "Other (chapter 94)"
+    },
+    {
+      "code": "95",
+      "label": "Other (chapter 95)"
+    },
+    {
+      "code": "96",
+      "label": "Other (chapter 96)"
+    },
+    {
+      "code": "97",
+      "label": "Other (chapter 97)"
+    }
+  ],
+  "freshness": {
+    "latest_year": 2026,
+    "latest_month": 6,
+    "export_months": "1, 3, 4, 5, 6",
+    "stale": false
+  },
+  "warning": "DATA QUALITY: The supplied KRA export extract is a 50% sample for month 1, month 3, month 4, month 5 and excludes month(s) 2. Figures are indicative only \u2014 request the complete extract before publication."
+}
