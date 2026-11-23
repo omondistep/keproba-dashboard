@@ -4,6 +4,9 @@
 queries in the visitor's browser using DuckDB-WASM. No VPS, no database server,
 no Metabase licence, no SSH. Hosted free on GitHub Pages.
 
+**Live:** https://omondistep.github.io/keproba-dashboard/ ·
+**Source:** https://github.com/omondistep/keproba-dashboard
+
 ```
 inbox/*.zip  ──unzip──▶  inbox/kra/*.xls  +  inbox/itc/*.xlsx
                               │
